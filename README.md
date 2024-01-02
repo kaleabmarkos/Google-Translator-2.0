@@ -1,0 +1,1 @@
+# Google-Translator-2.0
