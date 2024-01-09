@@ -1,6 +1,6 @@
-# Google-Translator-2.0
+# Language-Translator
 
-Google Translator 2.0 is a simple yet powerful language translation tool built using the Tkinter GUI library and the Googletrans API. 
+Language Translator is a simple yet powerful language translation tool built using the Tkinter GUI library and the Googletrans API. 
 The application provides an intuitive interface for users to input text, select source and target languages, and obtain real-time translations.
 The main window features two frames for input and output text, along with ComboBoxes for language selection.
 The translation process is initiated by clicking the "Translate" button.
