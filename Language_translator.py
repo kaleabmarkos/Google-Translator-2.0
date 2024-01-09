@@ -7,7 +7,7 @@ import googletrans
 
 # Creating the main Tkinter window
 root = Tk()
-root.title("Google Translator 2.0")
+root.title("Language Translator 2.0")
 root.geometry("1080x400")
 root.resizable(False, False)
 root.configure(background="white")
